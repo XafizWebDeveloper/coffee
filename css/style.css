@@ -7,3 +7,13 @@
   justify-content: center;
   text-align: center;
 }
+
+.row-how{
+  justify-content: center;
+  text-align: start; 
+}
+
+.how{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
